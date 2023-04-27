@@ -1,2 +1,2 @@
 # Day_9
-training
+SQL training
